@@ -4,7 +4,7 @@ This guide covers **challenging React concepts** and **advanced topics** that ar
 
 ---
 
-## ⚛️ Core Advanced React Concepts
+## ⚛️ Core Advanced React Concepts.
 
 ### 1. React Hooks (Beyond Basics)
 - [ ] Custom Hooks for reusable logic (`useFetch`, `useDebounce`, `useInfiniteScroll`)
